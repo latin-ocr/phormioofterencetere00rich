@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./phormioofterencetere00rich_0189.png"; bbox 0 0 1839 3398; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1342 622 1435 2406">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1342 622 1435 2406">
+     <span class='ocr_line' id='line_1_1' title="bbox 1342 622 1435 2406; baseline -84.952 1019.429"><span class='ocrx_word' id='word_1_1' title='bbox 1353 622 1412 943; x_wconf 52' lang='lat'>3:555,</span> <span class='ocrx_word' id='word_1_2' title='bbox 1363 995 1418 1386; x_wconf 57' lang='lat'>33:35.</span> <span class='ocrx_word' id='word_1_3' title='bbox 1361 1531 1417 1867; x_wconf 60' lang='grc' dir='ltr'>,Ξῖ-,ἓ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1342 1920 1435 2406; x_wconf 46' lang='lat' dir='ltr'>{cha-zm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 225 527 1306 2468">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 225 527 1306 2468">
+     <span class='ocr_line' id='line_1_2' title="bbox 225 527 1306 2468"><span class='ocrx_word' id='word_1_5' title='bbox 225 527 1306 2468; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 51 1270 91 1732">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 51 1270 91 1732">
+     <span class='ocr_line' id='line_1_3' title="bbox 51 1270 91 1732; baseline 57.75 -693"><span class='ocrx_word' id='word_1_6' title='bbox 55 1270 89 1398; x_wconf 67' lang='lat' dir='ltr'>ff:-</span> <span class='ocrx_word' id='word_1_7' title='bbox 56 1492 91 1616; x_wconf 58' lang='lat'>117...</span> <span class='ocrx_word' id='word_1_8' title='bbox 51 1650 89 1732; x_wconf 50' lang='lat'>21⁴?</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
